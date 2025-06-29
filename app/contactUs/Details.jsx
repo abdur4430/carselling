@@ -61,7 +61,7 @@ const Details = () => {
               </span>{" "}
               <span className="flex flex-col">
                 <span className="pb-2">Phone</span>
-                <span className="text-xs">+252 611008043</span>
+                <span className="text-xs">+92 3365158228</span>
               </span>
             </p>
           </div>
