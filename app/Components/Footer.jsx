@@ -63,10 +63,10 @@ const Footer = () => {
           <p>
             © 2024 Tayo. All rights reserved. Developed by{" "}
             <Link
-              href="https://github.com/khaalid-yare"
+              href="https://github.com/abdur4430"
               className="hover:underline"
             >
-              <strong>Mr Khaalid</strong>
+              <strong></strong>
             </Link>
           </p>
           <p className="flex space-x-2">
