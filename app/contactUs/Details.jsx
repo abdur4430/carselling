@@ -49,7 +49,7 @@ const Details = () => {
               </span>{" "}
               <span className="flex flex-col">
                 <span className="pb-2">Email</span>
-                <span className="text-xs">khaalidyare344@gmail.com</span>
+                <span className="text-xs">abdus4430@gmail.com</span>
               </span>
             </p>
           </div>
